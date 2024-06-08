@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(home:LudoBoardd() ,
+    return MaterialApp(home:LudoBoard() ,
     debugShowCheckedModeBanner: false,);
   }
 }

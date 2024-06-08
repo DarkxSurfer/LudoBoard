@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 
 
-class LudoBoardd extends StatelessWidget {
+class LudoBoard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -18,7 +18,7 @@ class LudoBoardd extends StatelessWidget {
   }
 }
 
-class LudoBoard extends StatelessWidget {
+class Board_Design extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
